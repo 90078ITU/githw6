@@ -1,0 +1,7 @@
+Why do we call the place we put stashes a "stack"? What git stash operation can we do that is usually impossible with stacks?
+
+- It is called as stack because it works like stacks. Everytime you save a new stash, it is added on top of the existing stack.
+
+Explain how you could use stashing to solve this problem if all you wanted to do was to checkout githw6, examine B.txt
+
+- You can stash you changes and apply them later on any branch you want.
